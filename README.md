@@ -9,3 +9,5 @@ For simulation, we consider
 
 
 The excel sheet "Synthetic Dataset Description" is attched, containing information about synthtic datasets.
+
+Benchmark EEG dataset Link: https://www.upf.edu/web/ntsa/downloads/-/asset_publisher/xvT6E4pczrBw/content/2001-indications-of-nonlinear-deterministic-and-finite-dimensional-structures-in-time-series-of-brain-electrical-activity-dependence-on-recording-regi
